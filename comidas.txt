@@ -1,0 +1,6 @@
+lasanha
+bolacha
+biscoito
+alface
+esse arquivo é apenas para teste, para poder entender mais sobre
+os comandos do GIT usando o terminal do GIT[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D,[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D [C[C[C[D[D[D[2~u[D[Csando o terminal do GIT [C[D[2~DS[D[.
